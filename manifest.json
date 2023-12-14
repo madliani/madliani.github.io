@@ -1,0 +1,29 @@
+{
+  "assets/icons/apple-touch-icon.png": {
+    "file": "assets/apple-touch-icon-8bc77865.png",
+    "src": "assets/icons/apple-touch-icon.png"
+  },
+  "assets/icons/favicon.ico": {
+    "file": "assets/favicon-47ec3109.ico",
+    "src": "assets/icons/favicon.ico"
+  },
+  "assets/images/portfolio-homepage.png": {
+    "file": "assets/portfolio-homepage-9b37c618.png",
+    "src": "assets/images/portfolio-homepage.png"
+  },
+  "index.css": {
+    "file": "assets/index-4e5c0698.css",
+    "src": "index.css"
+  },
+  "index.html": {
+    "assets": [
+      "assets/portfolio-homepage-9b37c618.png"
+    ],
+    "css": [
+      "assets/index-4e5c0698.css"
+    ],
+    "file": "assets/index-dc4ed0cf.js",
+    "isEntry": true,
+    "src": "index.html"
+  }
+}
